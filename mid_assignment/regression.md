@@ -26,3 +26,5 @@
   - 상수함수 = 변화가 없는 값
   - 카테고리형 데이터들이 존재하는 경우 더미 변수로 변경 후 Classification과 함께 사용하여 Regression 모델을 이용하면 더 좋은 결과를 보여줄 수 있음
   - 묶어서 볼 column들은 묶어서 볼 것
+- correlation vs regression
+  - 상관관계를 보는가 인과관계를 보는가
